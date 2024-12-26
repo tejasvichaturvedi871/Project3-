@@ -12,3 +12,4 @@ print(" ",end = " ")
 for j in range(2n-2i-3):
 print("*",end = " ")
 print()
+![Screenshot_20241227-003344_Chrome](https://github.com/user-attachments/assets/c8308575-4ec7-4484-a432-4c19e58df5e7)
